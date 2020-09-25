@@ -1,6 +1,6 @@
 # Notebooks
 
-This repository contains jupyter-notebooks that refer to my [paper-summaries](https://borea17.github.io/paper_summaries/).   
+This repository contains jupyter-notebooks that refer to my [paper summaries](https://borea17.github.io/paper_summaries/).   
 For the sake of clarity, the notebooks only consist of coding cells.
 
 ## Overview
