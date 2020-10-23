@@ -14,6 +14,6 @@ For the sake of clarity, the notebooks only consist of coding cells.
 3. **U-Net: Convolutional Networks for Biomedical Image Segmentation**
     * by [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)
     * won [two challenges at ISBI 2015](https://lmb.informatik.uni-freiburg.de/people/ronneber/isbi2015/)
-4. **MONet: Unsupervised Scene Decomposition and Representation**
-    * by [Burgess et al. (2019)](https://arxiv.org/abs/1901.11390)
-    * work by [Deepmind](https://deepmind.com/research/publications/MONet-Unsupervised-Scene-Decomposition-and-Representation)
+4. **Spatial Transformer Networks**
+    * by [Jaderberg et al. (2015)](https://arxiv.org/abs/1506.02025), work by [Deepmind](https://deepmind.com/research/publications/spatial-transformer-networks)
+    * appeared in [NeurIPS 2015](https://papers.nips.cc/paper/5854-spatial-transformer-networks)
