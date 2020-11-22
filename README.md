@@ -17,3 +17,6 @@ For the sake of clarity, the notebooks only consist of coding cells.
 4. **Spatial Transformer Networks**
     * by [Jaderberg et al. (2015)](https://arxiv.org/abs/1506.02025), work by [Deepmind](https://deepmind.com/research/publications/spatial-transformer-networks)
     * appeared in [NeurIPS 2015](https://papers.nips.cc/paper/5854-spatial-transformer-networks)
+5. **Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
+    * by [Eslami et al. (2016)](https://arxiv.org/abs/1603.08575), work by [Deepmind](https://deepmind.com/research/publications/attend-infer-repeat-fast-scene-understanding-generative-models)
+    * appeared in [NeurIPS 2016](https://papers.nips.cc/paper/2016/file/52947e0ade57a09e4a1386d08f17b656-Paper.pdf)
