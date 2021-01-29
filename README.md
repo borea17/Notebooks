@@ -20,3 +20,6 @@ For the sake of clarity, the notebooks only consist of coding cells.
 5. **Attend, Infer, Repeat: Fast Scene Understanding with Generative Models**
     * by [Eslami et al. (2016)](https://arxiv.org/abs/1603.08575), work by [Deepmind](https://deepmind.com/research/publications/attend-infer-repeat-fast-scene-understanding-generative-models)
     * appeared in [NeurIPS 2016](https://papers.nips.cc/paper/2016/file/52947e0ade57a09e4a1386d08f17b656-Paper.pdf)
+6. **Importance Weighted Autoencoders**
+    * by [Burda et al. (2016)](https://arxiv.org/abs/1509.00519)
+    * appeared in [ICLR 2016](https://iclr.cc/archive/www/doku.php%3Fid=iclr2016:main.html)
