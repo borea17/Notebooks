@@ -24,5 +24,5 @@ For the sake of clarity, the notebooks only consist of coding cells.
     * by [Burda et al. (2016)](https://arxiv.org/abs/1509.00519)
     * appeared in [ICLR 2016](https://iclr.cc/archive/www/doku.php%3Fid=iclr2016:main.html)
 7. **The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables**
-    * by [Maddison et al. (2016)](https://arxiv.org/abs/1611.00712)
-    * appeared in [ICLR 2017](https://dblp.org/db/conf/iclr/iclr2017.html), work by [Deepmind](https://deepmind.com/research/publications/concrete-distribution-continuous-relaxation-discrete-random-variables)
+    * by [Maddison et al. (2016)](https://arxiv.org/abs/1611.00712), , work by [Deepmind](https://deepmind.com/research/publications/concrete-distribution-continuous-relaxation-discrete-random-variables)
+    * appeared in [ICLR 2017](https://dblp.org/db/conf/iclr/iclr2017.html)
